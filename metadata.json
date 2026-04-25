@@ -1,0 +1,9 @@
+{
+  "name": "AI Rapid Missing Person Alert System",
+  "description": "A rapid crisis response system for finding missing children and women using AI-powered alerts, location-based notifications, and image recognition.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": []
+}
